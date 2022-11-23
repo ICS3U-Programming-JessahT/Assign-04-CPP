@@ -1,9 +1,10 @@
 // Copyright (c) Jessah All rights reserved.
 //
 // Name Jessah
-// 16/11/2022
-// This program ask the user for an integer and it will
-// produce the power of the numbers before the input number
+// 23/11/2022
+// This program lists double digit numbers that sum to 60
+// and have a difference of 14
+// altered to have user input
 
 #include <iostream>
 
